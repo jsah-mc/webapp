@@ -25,7 +25,7 @@ function App() {
   return (
     <>
       <h1>
-        <span ref={el}></span>
+        <span ref={el}>alo</span>
       </h1>
     </>
   );
